@@ -3,5 +3,6 @@ This script opens chrome browser with chrome driver and show you all programs fr
 
 
 
-# Install Chrome driver
-https://chromedriver.chromium.org/
+# Download Chrome Driver
+Chrome Driver: https://chromedriver.chromium.org/
+
