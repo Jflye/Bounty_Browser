@@ -3,8 +3,8 @@ from selenium import webdriver
 
 # --- Opens YwH ---
 print("---Yes We Hack = Loaded!")
-browser = webdriver.Chrome('/Users/monk/Desktop/PythonKoder/Chrome-Driver/chromedriver')
-driver = webdriver.Chrome('/Users/monk/Desktop/PythonKoder/Chrome-Driver/chromedriver')
+browser = webdriver.Chrome('PATH to where you installed chrome driver')
+driver = webdriver.Chrome('PATH to chrome driver')
 driver.get('https://yeswehack.com/programs')
 time.sleep(10)
 
