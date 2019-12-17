@@ -5,5 +5,5 @@ You have 10 seconds to view the programs on each page, before the script moves o
 # Download Chrome Driver
 Chrome Driver: https://chromedriver.chromium.org/
 
-#Usage
+# Usage
 Python3 BountyBrowser.py
